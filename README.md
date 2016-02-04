@@ -34,10 +34,10 @@ Play: https://dl.dropboxusercontent.com/s/hmy0sp0zw4m8nne/Laser%20Defender.html 
 
 ### Prints ###
 
-   ![print1.png](https://bitbucket.org/repo/p6xapR/images/2805154039-print1.png)
+   ![ls1.png](https://bitbucket.org/repo/5r7aqn/images/4063762991-ls1.png)
 
 
-   ![print2.png](https://bitbucket.org/repo/p6xapR/images/57764705-print2.png)
+   ![ls2.png](https://bitbucket.org/repo/5r7aqn/images/2903925878-ls2.png)
 
 
-   ![print3.png](https://bitbucket.org/repo/p6xapR/images/2837086954-print3.png)
+   ![ls3.png](https://bitbucket.org/repo/5r7aqn/images/1745261302-ls3.png)
