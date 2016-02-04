@@ -41,7 +41,7 @@ public class HealthBar : MonoBehaviour
 		xMin = healthTransform.position.x  - healthTransform.rect.width;
 	}
 	
-	void DiscreaseHealth()
+	void DecreaseHealth()
 	{
 		float currentX = HealthMap(currentHealth, 0, maxHealth, xMin, xMax);
 		healthTransform.position = new Vector3(currentX, yPos, 0f); 
@@ -70,7 +70,7 @@ public class HealthBar : MonoBehaviour
 		set 
 		{
 			currentHealth = value;
-			DiscreaseHealth();	
+			DecreaseHealth();	
 		}
 	}
 }
